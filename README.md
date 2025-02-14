@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 ### **🚀 Clone the Repository**
 ```bash
-git clone https://github.com/theartikeyamishra/menu-matcher.git
+git clone https://github.com/theartikeyamishra/menu-matcher-ai.git
 cd menu-matcher
 ```
 
@@ -135,5 +135,5 @@ This project is licensed under the **MIT License**.
 ✅ Secure & optimized API calls  
 
 🚀 **Try it now!** Clone the repo and run `npx expo start`!  
-🔗 [GitHub Repo](https://github.com/thekartikeyamishra/menu-matcher)  
+🔗 [GitHub Repo](https://github.com/thekartikeyamishra/menu-matcher-ai)  
 
